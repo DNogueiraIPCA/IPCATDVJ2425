@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoColisor", "ProjetoColisor\ProjetoColisor.csproj", "{01BC169F-A7E4-48B8-B861-F6E89C2B8640}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01BC169F-A7E4-48B8-B861-F6E89C2B8640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BC169F-A7E4-48B8-B861-F6E89C2B8640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BC169F-A7E4-48B8-B861-F6E89C2B8640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BC169F-A7E4-48B8-B861-F6E89C2B8640}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {498FFFAF-22B3-4E00-9784-377F185AC8B0}
+	EndGlobalSection
+EndGlobal

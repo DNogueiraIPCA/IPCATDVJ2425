@@ -1,0 +1,51 @@
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\bin\Debug\net6.0\Poligonos.exe
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\bin\Debug\net6.0\Poligonos.deps.json
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\bin\Debug\net6.0\Poligonos.runtimeconfig.json
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\bin\Debug\net6.0\Poligonos.dll
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\bin\Debug\net6.0\Poligonos.pdb
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\obj\Debug\net6.0\Poligonos.csproj.AssemblyReference.cache
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\obj\Debug\net6.0\Poligonos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\obj\Debug\net6.0\Poligonos.AssemblyInfoInputs.cache
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\obj\Debug\net6.0\Poligonos.AssemblyInfo.cs
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\obj\Debug\net6.0\Poligonos.csproj.CoreCompileInputs.cache
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\obj\Debug\net6.0\Poligonos.dll
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\obj\Debug\net6.0\refint\Poligonos.dll
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\obj\Debug\net6.0\Poligonos.pdb
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\obj\Debug\net6.0\Poligonos.genruntimeconfig.cache
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\obj\Debug\net6.0\ref\Poligonos.dll
+C:\Daniel\ipca\2023-2024\desenvolvimento\Poligonos\obj\Debug\net6.0\Poligonos.csproj.Up2Date
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\bin\Debug\net6.0\Poligonos.exe
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\bin\Debug\net6.0\Poligonos.deps.json
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\bin\Debug\net6.0\Poligonos.runtimeconfig.json
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\bin\Debug\net6.0\Poligonos.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\bin\Debug\net6.0\Poligonos.pdb
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\obj\Debug\net6.0\Poligonos.csproj.AssemblyReference.cache
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\obj\Debug\net6.0\Poligonos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\obj\Debug\net6.0\Poligonos.AssemblyInfoInputs.cache
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\obj\Debug\net6.0\Poligonos.AssemblyInfo.cs
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\obj\Debug\net6.0\Poligonos.csproj.CoreCompileInputs.cache
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\obj\Debug\net6.0\Poligonos.sourcelink.json
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\obj\Debug\net6.0\Poligonos.csproj.Up2Date
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\obj\Debug\net6.0\Poligonos.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\obj\Debug\net6.0\refint\Poligonos.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\obj\Debug\net6.0\Poligonos.pdb
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\obj\Debug\net6.0\Poligonos.genruntimeconfig.cache
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\Poligonos\obj\Debug\net6.0\ref\Poligonos.dll

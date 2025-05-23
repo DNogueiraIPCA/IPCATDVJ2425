@@ -1,0 +1,55 @@
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\Content\car.xnb
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\Content\pothole.xnb
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\ProjetoColisor.exe
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\ProjetoColisor.deps.json
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\ProjetoColisor.runtimeconfig.json
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\ProjetoColisor.dll
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\ProjetoColisor.pdb
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.csproj.AssemblyReference.cache
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.AssemblyInfoInputs.cache
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.AssemblyInfo.cs
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.csproj.CoreCompileInputs.cache
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.csproj.CopyComplete
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.dll
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\refint\ProjetoColisor.dll
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.pdb
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.genruntimeconfig.cache
+C:\Daniel\ipca\licenciatura\Tecnicas de Desenvolvimento de Videojogos\git\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ref\ProjetoColisor.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\Content\car.xnb
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\Content\pothole.xnb
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\ProjetoColisor.exe
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\ProjetoColisor.deps.json
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\ProjetoColisor.runtimeconfig.json
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\ProjetoColisor.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\ProjetoColisor.pdb
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.csproj.AssemblyReference.cache
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.AssemblyInfoInputs.cache
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.AssemblyInfo.cs
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.csproj.CoreCompileInputs.cache
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.sourcelink.json
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoC.B4A6EFAC.Up2Date
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\refint\ProjetoColisor.dll
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.pdb
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ProjetoColisor.genruntimeconfig.cache
+C:\Users\fonte\OneDrive - Instituto Politécnico do Cávado e do Ave\ipca\Tecnica de desenvolvimento de videojogos\GitHub\IPCATDVJ2425\ProjetoColisor\ProjetoColisor\obj\Debug\net6.0\ref\ProjetoColisor.dll

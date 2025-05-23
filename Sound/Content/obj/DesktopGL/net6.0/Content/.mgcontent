@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/fonte/OneDrive - Instituto Politécnico do Cávado e do Ave/ipca/Tecnica de desenvolvimento de videojogos/GitHub/IPCATDVJ2425/Sound/Content/collision.wav</File>
+    <File>C:/Users/fonte/OneDrive - Instituto Politécnico do Cávado e do Ave/ipca/Tecnica de desenvolvimento de videojogos/GitHub/IPCATDVJ2425/Sound/Content/sound.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fonte\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\ipca\\Tecnica de desenvolvimento de videojogos\\GitHub\\IPCATDVJ2425\\ProjetoColisor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01BC169F-A7E4-48B8-B861-F6E89C2B8640}|ProjetoColisor\\ProjetoColisor.csproj|c:\\users\\fonte\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\ipca\\tecnica de desenvolvimento de videojogos\\github\\ipcatdvj2425\\projetocolisor\\projetocolisor\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BC169F-A7E4-48B8-B861-F6E89C2B8640}|ProjetoColisor\\ProjetoColisor.csproj|solutionrelative:projetocolisor\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BC169F-A7E4-48B8-B861-F6E89C2B8640}|ProjetoColisor\\ProjetoColisor.csproj|c:\\users\\fonte\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\ipca\\tecnica de desenvolvimento de videojogos\\github\\ipcatdvj2425\\projetocolisor\\projetocolisor\\pothole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BC169F-A7E4-48B8-B861-F6E89C2B8640}|ProjetoColisor\\ProjetoColisor.csproj|solutionrelative:projetocolisor\\pothole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BC169F-A7E4-48B8-B861-F6E89C2B8640}|ProjetoColisor\\ProjetoColisor.csproj|c:\\users\\fonte\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\ipca\\tecnica de desenvolvimento de videojogos\\github\\ipcatdvj2425\\projetocolisor\\projetocolisor\\gameobject2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BC169F-A7E4-48B8-B861-F6E89C2B8640}|ProjetoColisor\\ProjetoColisor.csproj|solutionrelative:projetocolisor\\gameobject2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BC169F-A7E4-48B8-B861-F6E89C2B8640}|ProjetoColisor\\ProjetoColisor.csproj|c:\\users\\fonte\\onedrive - instituto polit\u00E9cnico do c\u00E1vado e do ave\\ipca\\tecnica de desenvolvimento de videojogos\\github\\ipcatdvj2425\\projetocolisor\\projetocolisor\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BC169F-A7E4-48B8-B861-F6E89C2B8640}|ProjetoColisor\\ProjetoColisor.csproj|solutionrelative:projetocolisor\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameObject2D.cs",
+              "DocumentMoniker": "C:\\Users\\fonte\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\ipca\\Tecnica de desenvolvimento de videojogos\\GitHub\\IPCATDVJ2425\\ProjetoColisor\\ProjetoColisor\\GameObject2D.cs",
+              "RelativeDocumentMoniker": "ProjetoColisor\\GameObject2D.cs",
+              "ToolTip": "C:\\Users\\fonte\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\ipca\\Tecnica de desenvolvimento de videojogos\\GitHub\\IPCATDVJ2425\\ProjetoColisor\\ProjetoColisor\\GameObject2D.cs",
+              "RelativeToolTip": "ProjetoColisor\\GameObject2D.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:18:12.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\fonte\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\ipca\\Tecnica de desenvolvimento de videojogos\\GitHub\\IPCATDVJ2425\\ProjetoColisor\\ProjetoColisor\\Game1.cs",
+              "RelativeDocumentMoniker": "ProjetoColisor\\Game1.cs",
+              "ToolTip": "C:\\Users\\fonte\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\ipca\\Tecnica de desenvolvimento de videojogos\\GitHub\\IPCATDVJ2425\\ProjetoColisor\\ProjetoColisor\\Game1.cs",
+              "RelativeToolTip": "ProjetoColisor\\Game1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:18:12.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pothole.cs",
+              "DocumentMoniker": "C:\\Users\\fonte\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\ipca\\Tecnica de desenvolvimento de videojogos\\GitHub\\IPCATDVJ2425\\ProjetoColisor\\ProjetoColisor\\Pothole.cs",
+              "RelativeDocumentMoniker": "ProjetoColisor\\Pothole.cs",
+              "ToolTip": "C:\\Users\\fonte\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\ipca\\Tecnica de desenvolvimento de videojogos\\GitHub\\IPCATDVJ2425\\ProjetoColisor\\ProjetoColisor\\Pothole.cs",
+              "RelativeToolTip": "ProjetoColisor\\Pothole.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:18:12.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\fonte\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\ipca\\Tecnica de desenvolvimento de videojogos\\GitHub\\IPCATDVJ2425\\ProjetoColisor\\ProjetoColisor\\Car.cs",
+              "RelativeDocumentMoniker": "ProjetoColisor\\Car.cs",
+              "ToolTip": "C:\\Users\\fonte\\OneDrive - Instituto Polit\u00E9cnico do C\u00E1vado e do Ave\\ipca\\Tecnica de desenvolvimento de videojogos\\GitHub\\IPCATDVJ2425\\ProjetoColisor\\ProjetoColisor\\Car.cs",
+              "RelativeToolTip": "ProjetoColisor\\Car.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwDkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:18:12.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
